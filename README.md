@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
 </p>
 
 <h3 align="center">🌟 Full Stack Developer | Hyderabad, India 🌟</h3>
@@ -112,6 +112,28 @@
 
 **B.Tech in Information Technology** — Malla Reddy Engineering College, Hyderabad  
 *CGPA: 7.98 / 10.0* | Nov 2021 – Jun 2025  
+
+---
+### 🏅 Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/go/GuQ8torvOwXuYDrEI7cr7Q" target="_blank">
+    <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+  </a>
+  <img src="https://img.shields.io/badge/SQL-005C9C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Certification" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Certification" />
+  <a href="https://www.hackerrank.com/certificates/547daea697c2" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certification (HackerRank)" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/547daea697c2" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certification" />
+  </a>
+</p>
+
+**Notable certificates:**  
+- [Azure Fundamentals](https://www.credly.com/go/GuQ8torvOwXuYDrEI7cr7Q)  
+- [HackerRank Python Certification](https://www.hackerrank.com/certificates/547daea697c2)  
+- SQL 
 
 ---
 
