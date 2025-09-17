@@ -88,7 +88,13 @@
 #### 📊 [Black Friday Sales Prediction](https://github.com/Maralishashank)
 - Built ML model using **500K+ transactions** to forecast purchasing behavior  
 - Achieved ~85% accuracy with Random Forest, enabling better marketing & inventory planning  
-- Tech: Python | Scikit-learn | Pandas  
+- Tech: Python | Scikit-learn | Pandas
+
+#### 🩺 [Diabetes Disease Prediction](https://github.com/Maralishashank)
+- Implemented a prediction system using the **Pima Indians Diabetes Dataset (768 records)** with 5 ML algorithms: KNN, Naïve Bayes, Decision Tree, Random Forest, and SVM  
+- Achieved the highest accuracy of **76% with KNN**, while other models maintained stability above 70%  
+- Applied **cross-validation** to improve reliability and analyzed overfitting/underfitting with accuracy visualization  
+- Built with **Python, Django ORM, MySQL, HTML, CSS, JavaScript**, enabling early disease detection through data-driven insights  
 
 ---
 
@@ -106,6 +112,14 @@
 
 **B.Tech in Information Technology** — Malla Reddy Engineering College, Hyderabad  
 *CGPA: 7.98 / 10.0* | Nov 2021 – Jun 2025  
+
+---
+
+### ✨ Current Focus & Goals  
+
+- 🌱 Currently Learning: Advanced AI/ML & Microservices  
+- ⚡ Strengths: Java Full Stack | Cloud | DevOps | Data Analysis  
+- 🎯 Career Goal: Build scalable software & AI-driven solutions  
 
 ---
 
