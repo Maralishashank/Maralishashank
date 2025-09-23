@@ -195,6 +195,32 @@
 
 ---
 
+## 🎉 Fun Zone / About Me  
+
+- 🏏 Big fan of cricket (love discussing matches & stats)  
+- 🎮 Casual gamer (strategy & story-based games are my favorite)  
+- 🎧 Always coding with lo-fi / EDM playlists  
+- 📚 Love exploring AI, futuristic tech & sci-fi  
+- ☕ Tea-powered problem solver
+- 🍥 Anime enthusiast (Naruto, One Piece, Attack On Titan 🔥)   
+
+---
+
+## 🎲 Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🌍 Random Fun Fact Generator  
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+</p>
+
+
 
 <div align="center">
   <h3>✨ "Code. Deploy. Scale." ✨</h3>
