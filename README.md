@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/github/followers/Maralishashank?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 ---
 
-### 🌐 Let's Connect & Collaborate!
+## 🌐 Let's Connect & Collaborate!
 <p align="center">
   <a href="https://www.linkedin.com/in/m-shashank-96865a2a6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -37,7 +39,7 @@
 
 ---
 
-### 💻 My Technology Arsenal  
+## 💻 My Technology Arsenal  
 
 **Programming Languages**  
 <p align="center">
@@ -76,74 +78,123 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 </p>
 
----
-
-### 🚀 Featured Projects  
-
-#### 📱 [Student Management System](https://github.com/Maralishashank)
-- Multi-role system (Admin/Student) with CRUD operations, attendance & announcements  
-- Backend: Java, Spring Boot, Oracle | Frontend: Angular  
-- Dockerized & deployed on AWS EC2/S3 with CI/CD pipelines  
-
-#### 📊 [Black Friday Sales Prediction](https://github.com/Maralishashank)
-- Built ML model using **500K+ transactions** to forecast purchasing behavior  
-- Achieved ~85% accuracy with Random Forest, enabling better marketing & inventory planning  
-- Tech: Python | Scikit-learn | Pandas
-
-#### 🩺 [Diabetes Disease Prediction](https://github.com/Maralishashank)
-- Implemented a prediction system using the **Pima Indians Diabetes Dataset (768 records)** with 5 ML algorithms: KNN, Naïve Bayes, Decision Tree, Random Forest, and SVM  
-- Achieved the highest accuracy of **76% with KNN**, while other models maintained stability above 70%  
-- Applied **cross-validation** to improve reliability and analyzed overfitting/underfitting with accuracy visualization  
-- Built with **Python, Django ORM, MySQL, HTML, CSS, JavaScript**, enabling early disease detection through data-driven insights  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
-### 💼 Professional Experience  
+## 🚀 Featured Projects  
 
-**Junior Java Developer Intern — Vangrove Tech Pvt Ltd** | Aug 2025 – Present  
-- Developed **RESTful APIs** with Java & Spring Boot for web applications  
-- Contributed to **frontend-backend integration** (Angular + Spring Boot)  
-- Applied **DevOps tools** (Git, Docker, CI/CD) for deployment & automation  
-- Collaborated in **Agile sprints**, debugging and optimizing applications  
+### 📱 Student Management System  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**Tech Stack:** Java | Spring Boot | Angular | Oracle | AWS | Docker | CI/CD  
+
+**Overview —** Built a multi-role web portal for educational institutes to manage attendance, tasks, marks, and announcements.  
+**Problem —** Manual record-keeping and fragmented tools caused slow processes for admins and poor UX for students.  
+**Solution —** Designed a role-based system (Admin / Student), implemented RESTful APIs (Spring Boot + Oracle), and a responsive Angular UI. Containerized with Docker and deployed on AWS with CI/CD for seamless updates.  
+**Impact —** Supported **500+ concurrent users**, reduced administrative overhead, and improved system performance by **~30%** through query/API optimizations.
+
+**Key contributions**
+- Role-based authentication & authorization for secure data access.  
+- REST API design with input validation and error handling.  
+- Frontend: dynamic dashboards, responsive components, and accessibility improvements.  
+- Production-ready deployment: Docker + AWS EC2/S3 + CI/CD pipelines.
+
 
 ---
 
-### 🎓 Education  
+### 📊 Black Friday Sales Prediction  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Tech Stack:** Python | Pandas | Scikit-learn | Matplotlib  
+
+**Overview —** Predict customer purchase behavior during Black Friday sales to inform inventory and marketing strategies.  
+**Problem —** Retailers needed accurate demand forecasting to avoid stock-outs and overstock during peak sales.  
+**Solution —** Cleaned and processed **500K+ transaction records**, engineered features, and trained multiple ML models. Fine-tuned a Random Forest model for the best performance. Visualized results with dashboards.  
+**Impact —** Achieved **~85% accuracy** with Random Forest, identified high-value customer segments, and provided actionable insights for targeted promotions and inventory planning.
+
+**Key contributions**
+- Data cleaning, missing-value handling, and feature engineering.  
+- Model training, hyperparameter tuning, and evaluation (precision/recall/F1).  
+- Business-focused visualizations for non-technical stakeholders.  
+- Recommendations for segmentation-based marketing strategies.
+
+
+---
+
+### 🩺 Diabetes Disease Prediction  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Tech Stack:** Python | Django ORM | MySQL | HTML | CSS | JavaScript  
+
+**Overview —** A web app for early diabetes-risk prediction using the Pima Indians Diabetes Dataset (768 records).  
+**Problem —** Need for accessible tools that provide early indicators of diabetes risk for users and clinicians.  
+**Solution —** Implemented and compared **5 ML algorithms** (KNN, Naïve Bayes, Decision Tree, Random Forest, SVM). Built a Django web interface with MySQL backend for real-time predictions and model comparison visualizations. Applied cross-validation to ensure reliability.  
+**Impact —** KNN gave the best result at **76% accuracy**, others >70%. The web app allowed users to input parameters and receive instant, interpretable predictions.
+
+**Key contributions**
+- End-to-end pipeline: preprocessing → model training → deployment on a Django app.  
+- Cross-validation and confusion-matrix analysis to assess model reliability.  
+- Simple, user-friendly frontend for real-time predictions and result explanation.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
+
+## 💼 Professional Experience  
+
+**Junior Java Developer Intern — Vangrove Tech Pvt Ltd**  
+📍 Hyderabad | Aug 2025 – Present  
+
+- Built and optimized **RESTful APIs** using Java & Spring Boot for enterprise web apps  
+- Integrated Angular frontend with Spring Boot backend for seamless workflows  
+- Applied **DevOps tools** (Git, Docker, CI/CD) for automation & deployment  
+- Collaborated in **Agile sprints**, debugging & improving applications  
+- Reduced API response times by **25%** through optimization  
+
+---
+
+## 🎓 Education  
 
 **B.Tech in Information Technology** — Malla Reddy Engineering College, Hyderabad  
-*CGPA: 7.98 / 10.0* | Nov 2021 – Jun 2025  
+📊 CGPA: 7.98 / 10.0 | 📅 Nov 2021 – Jun 2025  
 
 ---
-### 🏅 Certifications
+
+## 🏅 Certifications  
 
 <p align="center">
   <a href="https://www.credly.com/go/GuQ8torvOwXuYDrEI7cr7Q" target="_blank">
-    <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+    <img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/SQL-005C9C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Certification" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Certification" />
+  <img src="https://img.shields.io/badge/SQL-005C9C?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <a href="https://www.hackerrank.com/certificates/547daea697c2" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certification (HackerRank)" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/certificates/547daea697c2" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Certification" />
+    <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
-**Notable certificates:**  
-- [Azure Fundamentals](https://www.credly.com/go/GuQ8torvOwXuYDrEI7cr7Q)  
-- [HackerRank Python Certification](https://www.hackerrank.com/certificates/547daea697c2)  
-- SQL 
-
 ---
 
-### ✨ Current Focus & Goals  
+## ✨ Current Focus & Goals  
 
-- 🌱 Currently Learning: Advanced AI/ML & Microservices  
+- 🌱 Learning: Advanced AI/ML & Microservices  
 - ⚡ Strengths: Java Full Stack | Cloud | DevOps | Data Analysis  
-- 🎯 Career Goal: Build scalable software & AI-driven solutions  
+- 🎯 Goal: Build scalable software & AI-driven solutions  
 
 ---
+
 
 <div align="center">
   <h3>✨ "Code. Deploy. Scale." ✨</h3>
