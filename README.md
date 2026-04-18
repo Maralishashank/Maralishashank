@@ -21,7 +21,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maralishashank&label=Profile%20Views&color=3b82f6&style=flat-square)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-4ade80?style=flat-square&logo=checkmarx&logoColor=white)
-![Location](https://img.shields.io/badge/Hyderabad%2C%20India-f59e0b?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Bangalore%2C%20India-f59e0b?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
