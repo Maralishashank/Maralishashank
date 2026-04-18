@@ -222,7 +222,7 @@ An ML-powered healthcare web app for early diabetes risk prediction using the **
 
 **B.Tech, Information Technology**  
 Malla Reddy Engineering College, Hyderabad &nbsp;|&nbsp; Nov 2021 – Jul 2025  
-📊 GPA: **7.98 / 10.0**
+📊 GPA: **7.86 / 10.0**
 
 </td>
 </tr>
